@@ -132,11 +132,12 @@ streamlit run frontend/app.py --server.port 8502
 ## Author
 
 **Satyapriya Dasgupta**
-[GitHub Profile](https://github.com/SatyapriyaDasgupta)
+[LinkedIn Profile](https://www.linkedin.com/in/satyapriya-dasgupta/)
 
 
 
 ## Acknowledgements
 
 Built with Streamlit and FastAPI. Thanks to the open-source community for libraries and examples that made this project possible.
+
 
