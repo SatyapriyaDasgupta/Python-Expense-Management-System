@@ -5,7 +5,7 @@ It uses a **Streamlit frontend**, a **FastAPI backend**, and a **MySQL database*
 
 This README explains how to run the application directly from the extracted zip file.
 
----
+
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before running the app, ensure you have:
 - **MySQL server** installed and running
 - `pip` installed (Python package manager)
 
----
+
 
 ## Setup Instructions
 
@@ -58,7 +58,7 @@ DB_PASSWORD = "your_mysql_password"
 DB_NAME = "expense_db"
 ```
 
----
+
 
 ### 5. Start the FastAPI backend
 
@@ -82,7 +82,7 @@ streamlit run frontend/app.py
 
 * Streamlit will open in your browser at: [http://localhost:8501](http://localhost:8501)
 
----
+
 
 ## Common Issues & Troubleshooting
 
@@ -120,22 +120,23 @@ pip install -r requirements.txt
 streamlit run frontend/app.py --server.port 8502
 ```
 
----
+
 ## Notes
 
 * The backend must be running before starting the frontend.
 * Keep database credentials secure and do not share them.
 * Python 3.10+ is required.
 
----
+
 
 ## Author
 
 **Satyapriya Dasgupta**
 [GitHub Profile](https://github.com/SatyapriyaDasgupta)
 
----
 
-Acknowledgements
+
+## Acknowledgements
 
 Built with Streamlit and FastAPI. Thanks to the open-source community for libraries and examples that made this project possible.
+
